@@ -1,0 +1,73 @@
+/* #box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+} */
+
+/* #heading{
+    text-align:center;
+    text-transform:uppercase ;
+}
+*{
+    font-family:'Times New Roman';
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px ;
+} */
+ *{
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+ }
+ #navbar{
+    height: 60px;
+    background-color: #0f1111;
+ }
+ button{
+    background-color: #f08804;
+ }
+ #logo{
+    color: #f08804;
+    font-size: 25px;
+ }
+ .account{
+    margin: 60px;
+ }
+ 
+ #div1{
+    background-color: rgba(255, 0,0, 0.5);
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+ }
+ #div2{
+    background-color: rgba(0, 255,0, 0.5);
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+ }
+ #div3{
+    background-color: rgba(0, 0,255, 0.5);
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+ }
+ footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+ #content{
+    height: 500px;
+ }
